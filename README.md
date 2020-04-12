@@ -1,10 +1,11 @@
 # Flutter Application: "I am Rich"
 
 Studying Flutter.
-
 Course [Introduction to Flutter Development Bootcamp Using Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart1) by The App Brewery.
 
-Section 3: First App, "I am Rich".
+### Section 3: First App, "I am Rich".
+
+<img src="https://github.com/renatasarmet/flutter_i_am_rich/blob/master/images/screenshot.png" height="600">
 
 
 ## Getting Started
